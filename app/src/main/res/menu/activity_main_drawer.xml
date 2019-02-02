@@ -7,19 +7,19 @@
         <item
             android:id="@+id/nav_home"
             android:icon="@drawable/ic_home"
-            android:title="Home" />
+            android:title="@string/home" />
         <item
             android:id="@+id/nav_connections"
             android:icon="@drawable/ic_connections"
-            android:title="Connections" />
+            android:title="@string/connections" />
         <item
             android:id="@+id/nav_messages"
-            android:title="Messages"
+            android:title="@string/messages"
             tools:icon="@drawable/ic_messages2" />
         <item
-            android:id="@+id/nav_manage"
+            android:id="@+id/nav_settings"
             android:icon="@drawable/ic_menu_manage"
-            android:title="Settings" />
+            android:title="@string/settings" />
     </group>
 
 </menu>
