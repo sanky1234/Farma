@@ -1,0 +1,22 @@
+{
+  "PRODUCTS": {
+    "Product A": {
+      "title": "A",
+      "Description": "A beautiful corn species with healing properties",
+      "Seller": "Sankalp Yamsani",
+      "Location": "Iowa"
+    },
+    "Product B": {
+      "title": "B",
+      "Description": "A decent soybean species with killing properties",
+      "Seller": "Shree",
+      "Location": "Jakarta"
+    },
+    "Product C": {
+      "title": "C",
+      "Description": "Lima Bean",
+      "Seller": "Arj and Sahaj",
+      "Location": "West"
+    }
+  }
+}
